@@ -12,6 +12,7 @@ Este projeto implementa um sistema client-server em Go para consulta de cotaçã
 Instale as dependências necessárias executando:
 
 ```bash
+
 go mod tidy
 go run server.go
 go run client.go
